@@ -1,0 +1,17 @@
+SIN JSX
+
+ React.createElement(
+       'h1', 
+       {
+         id: 'heading', 
+         className: 'heading'
+       },
+       'Hola Mundo'
+ );
+
+
+ FUNCTIONAL COMPONENT
+
+ const PrimerComponente = () => (
+    <h1>Hola Mundo</h1>
+  );
