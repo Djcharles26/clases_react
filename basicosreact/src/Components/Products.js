@@ -9,7 +9,7 @@ class Products extends Component{
             productos : [
             {id: 1, name: 'Camisa ReactJS', precio: 30},
             {id: 2, name: 'Camisa VueJS', precio: 30},
-            {id: 3, name: 'Camisa Angular', precio: 30},
+            {id: 3, name: 'Camisa Angur', precio: 30},
         ]};
     }
 
